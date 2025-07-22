@@ -1,1 +1,1 @@
-# Figure-4
+This code generates Figure 4, a solution space (A_2,u_2) for a blood flow model with a jump in the vessel stiffness k.  Ignoring supercritical solutions, which appear as white patches on the figure, a patchwork of different colours, representing different solutions, emerges.
